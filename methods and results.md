@@ -16,6 +16,7 @@
 	- forehead-blocked (bandanna-added)
 	- mouth-blocked (mask-added) 
 	- eye-blocked (sunglasses-added)
+	
 	![only face](https://user-images.githubusercontent.com/52064747/118484128-74806800-b749-11eb-9398-13ca8d84c349.png)
         ![bandana](https://user-images.githubusercontent.com/52064747/118484178-82ce8400-b749-11eb-8dc0-381b945f2681.png)
 	![mask](https://user-images.githubusercontent.com/52064747/118484203-8d891900-b749-11eb-9a85-fbe88bddaff5.png)
